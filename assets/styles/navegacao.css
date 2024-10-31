@@ -3,6 +3,7 @@
     height: 100px;
     background-color: var(--roxoEscuro);
     color: var(--corBranco);
+    font-family: "Nosifer", sans-serif;
     display: flex;
     flex-direction: row; /* Define a direção do Eixo Principal*/
     justify-content: space-around; /* Propriedade usada para organiza o eixo principal.*/

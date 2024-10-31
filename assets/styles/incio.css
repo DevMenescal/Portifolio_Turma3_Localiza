@@ -2,6 +2,7 @@
     width: 100%;
     background-color: var(--corFundo);
     color: var(--corBranco);
+    font-family: "Roboto", sans-serif;
     padding-top: 150px;
 }
 
